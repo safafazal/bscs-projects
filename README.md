@@ -15,7 +15,7 @@ This repository contains my academic and practice projects completed during my B
 - Basic conditional and loop-based programs
 
 ### Semester 2
-- Student Management System (C++)
+- university Management System (C++)
 - File Handling Programs
 - Object-Oriented Programming Projects
 
